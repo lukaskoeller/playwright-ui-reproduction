@@ -14,8 +14,16 @@ pnpm i
 ```
 
 ```bash
+pnpm --filter "@repro/web" dev
+```
+
+Open another terminal window
+
+```bash
 pnpm --filter "@repro/web" playwright-ui
 ```
+
+Now, with the UI opened, click on the play icon (▶️) of `example.spec.ts`.
 
 ## Attachments
 
