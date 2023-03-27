@@ -1,6 +1,6 @@
 # playwright-ui-reproduction
 
-This is a reproduction of a bug where using Playwright's UI won't listen any Actions or Browser Preview in the UI.
+This is a reproduction of a bug where using Playwright's UI won't list any Actions or Browser Preview in the UI.
 
 Github issue: <https://github.com/microsoft/playwright/issues/21950>
 Discord thread: <https://discord.com/channels/807756831384403968/1088760461471776888>
